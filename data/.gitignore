@@ -1,0 +1,9 @@
+/**/*.out
+/**/*.gz
+/**/*.fq
+/**/*.fastq
+/**/*.csv
+/**/*.errormap
+/**/*.npy
+/**/*.low_scores.stats
+/**/*.medium_scores.stats
